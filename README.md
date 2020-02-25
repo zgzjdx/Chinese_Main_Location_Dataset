@@ -1,0 +1,2 @@
+# Chinese_Main_Location_Dataset
+自己标注的500条中文主地域数据集
